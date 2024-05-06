@@ -1,8 +1,8 @@
 [
     {
       "schedule_id": "condition_check_v1",
-      "hours": [9, 12, 15, 21],
-      "start_date": "5-7-2024",
+      "hours": [9, 10 ,11 ,12 ,13 ,15 ,21],
+      "start_date": "5-6-2024",
       "end_date": "5-14-2024",
       "expiration": 10,
       "randomize": 5,
